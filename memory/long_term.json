@@ -1,0 +1,36 @@
+{
+  "identity": {
+    "creator_name": {
+      "value": "Jose Antonio Carbajal Quintanar",
+      "updated": "2026-05-11"
+    },
+    "creation_date": {
+      "value": "May 10, 2026",
+      "updated": "2026-05-11"
+    },
+    "creator_age": {
+      "value": "17",
+      "updated": "2026-05-11"
+    },
+    "current_location": {
+      "value": "Santiago Acutzilapan",
+      "updated": "2026-05-11"
+    }
+  },
+  "preferences": {
+    "default_browser": {
+      "value": "chrome",
+      "updated": "2026-05-11"
+    }
+  },
+  "projects": {},
+  "relationships": {},
+  "wishes": {},
+  "notes": {},
+  "Preferences": {
+    "tell_time_on_hola": {
+      "value": "true",
+      "updated": "2026-05-13"
+    }
+  }
+}

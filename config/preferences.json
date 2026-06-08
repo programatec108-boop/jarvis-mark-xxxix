@@ -1,0 +1,65 @@
+{
+  "user_name": "Jose Antonio",
+  "call_me": "ANTONI",
+  "city": "México",
+  "personality": "barrio",
+  "clock_24h": false,
+  "voice_speed": 1.0,
+  "active_timeout": 20,
+  "ollama_fallback": true,
+  "debug_mode": false,
+  "memory_enabled": true,
+  "theme_color": "green",
+  "shortcuts": [
+    "Jarvis enciende todas las luces",
+    "Jarvis pon música",
+    "Jarvis quiero hacer una reservación"
+  ],
+  "routines": [
+    {
+      "time": "07:00",
+      "days": "L-V",
+      "tasks": [
+        "Encender luces sala",
+        "Reproducir playlist",
+        "Leer noticias"
+      ]
+    },
+    {
+      "time": "22:00",
+      "days": "Todos",
+      "tasks": [
+        "Apagar luces",
+        "Alarma 06:50"
+      ]
+    }
+  ],
+  "notifications": {
+    "sound": true,
+    "wake_sound": true,
+    "error_sound": true
+  },
+  "personality_idx": 4,
+  "devices": [
+    {
+      "nombre": "sala",
+      "id": "ebd878f04f47272967ocgl",
+      "tipo": "Bombilla"
+    },
+    {
+      "nombre": "sala tele",
+      "id": "ebf839dd5b6b241d5fkhgn",
+      "tipo": "Bombilla"
+    },
+    {
+      "nombre": "cuarto Emmanuel",
+      "id": "eb7e78460a542027727lds",
+      "tipo": "Bombilla"
+    },
+    {
+      "nombre": "fuente",
+      "id": "ebc134b34166734fb1qrg1",
+      "tipo": "Enchufe"
+    }
+  ]
+}

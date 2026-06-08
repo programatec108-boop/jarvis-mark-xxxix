@@ -1,0 +1,7 @@
+{
+    "gemini_api_key": "AIzaSyCRbYIN1WZoK9Sai-CKVZ1azW1RBfsto1I",
+    "os_system": "windows",
+    "tuya_access_id": "da89ym8xpkwxx9jt3pt3",
+    "tuya_access_secret": "79f4581a54f14b4cb0d2d0897f8e2e24",
+    "tuya_base_url": "https://openapi.tuyaus.com"
+}
